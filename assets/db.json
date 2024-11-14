@@ -1,0 +1,68 @@
+{
+  "app_name": "Fake Call",
+  "app_icon": "assets/image.jpeg",
+  "splash_url": "assets/Monkey D_ Luffy.jpeg",
+  "main_color": "#FF4455",
+  "contact": "contact@email.com",
+  "about": "path_to",
+  "privacy": "path_to",
+  "terms": "path_to",
+  "ad_priority": [
+    {
+      "network": "AdMob",
+      "priority": 1
+    },
+    {
+      "network": "UnityAds",
+      "priority": 1
+    },
+    {
+      "network": "MetaAds",
+      "priority": 3
+    },
+    {
+      "network": "AppLovin",
+      "priority": 2
+    }
+  ],
+  "intro": [
+    {
+      "title": "Rononoa Zoro",
+      "description": "Zoro is a swordsman who uses a unique sword style called Santoryu.",
+      "icon": "assets/Luffy Mobile Background.jpeg"
+    },
+    {
+      "title": "Monkey D. Luffy",
+      "description": "Luffy is a pirate and the captain of the Straw Hat Pirates.",
+      "icon": "assets/Monkey D_ Luffy.jpeg"
+    },
+    {
+      "title": "Finsmoke Sanji",
+      "description": "Sanji is the cook of the Straw Hat Pirates.",
+      "icon": "assets/Luffy Mobile Background.jpeg"
+    }
+  ],
+  "content": [
+    {
+      "name": "Matilda",
+      "number": "+868959793",
+      "icon": "assets/image.jpeg",
+      "vocal": "sunflower-street-drumloop-85bpm-163900.mp3",
+      "video": "assets/zoro.mp4"
+    },
+    {
+      "name": "Stella",
+      "number": "+237568923",
+      "icon": "assets/image.jpeg",
+      "vocal": "sunflower-street-drumloop-85bpm-163900.mp3",
+      "video": "assets/zoro.mp4"
+    },
+    {
+      "name": "Chuck",
+      "number": "+2923454324",
+      "icon": "assets/image.jpeg",
+      "vocal": "sunflower-street-drumloop-85bpm-163900.mp3",
+      "video": "assets/zoro.mp4"
+    }
+  ]
+}
